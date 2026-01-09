@@ -1,2 +1,2 @@
-The learning python code with github.
-in this course and hand practice is continusly.
+# The learning python code with github.
+# In this course and hand practice is continusly.
