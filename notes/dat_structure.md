@@ -5,7 +5,7 @@ Python provides built-in data structures that are easy to use and powerful.
 
 ---
 
-## 1. List sun
+## 1. List
 
 ### 1.1 What is a List?
 - List is an ordered and mutable collection
