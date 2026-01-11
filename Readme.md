@@ -27,7 +27,7 @@ I am using this repo to track my progress and practice concepts step by step.
 
 ## 📘 Daily Learning Log
 
-### Pythons Function
+### 🧩 Pythons Function
 
 **Topic:** 
 - Learned what a function is and why it is used
@@ -35,7 +35,9 @@ I am using this repo to track my progress and practice concepts step by step.
 - Understood parameters and return values
 - Practiced writing simple functions
 
-### Python loops: 
+### ## 📘 Daily Learning Log
+
+### 🔁 Python loops: 
 
 **What I studies:**
 
@@ -52,7 +54,7 @@ I am using this repo to track my progress and practice concepts step by step.
 - 'for' loop is useful when iterations are known
 - 'while' loop works best for condition-based repetition
 
-### Git-Github:
+### 🐙 Git-Github:
 
 **Topics Studied:**
 
