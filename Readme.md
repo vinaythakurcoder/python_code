@@ -39,7 +39,6 @@ I am using this repo to track my progress and practice concepts step by step.
 
 **What I studies:**
 
- -what I study:
  - 'for' loop syntax and usage
  - 'while' loop with condition checking 
  - Difference between 'for' and 'while' 
