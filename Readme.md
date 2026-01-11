@@ -25,6 +25,45 @@ I am using this repo to track my progress and practice concepts step by step.
 
 ---
 
+## 📘 Daily Learning Log
+
+### Pythons Function
+
+**Topic:** 
+- Learned what a function is and why it is used
+- Studied `def` keyword and function syntax
+- Understood parameters and return values
+- Practiced writing simple functions
+
+### Python loops: 
+
+**What I studies:**
+
+ -what I study:
+ - 'for' loop syntax and usage
+ - 'while' loop with condition checking 
+ - Difference between 'for' and 'while' 
+ - Loop control statements: 'break', 'continue'
+
+**Practices:** 
+- printed numbers using 'for' loop
+- condition-based examples using 'while'
+
+**Key Learning:** 
+- 'for' loop is useful when iterations are known
+- 'while' loop works best for condition-based repetition
+
+**Topics Studied:**Git-Github
+
+- GitHub README ka use
+- Code me comments ka importance
+- Commit message ka sahi format
+
+**Practice:**
+- Ek small Python file me comments add kiye
+- GitHub par push kiya
+
+
 ## 🛠 Tools Used
 
 - Python
