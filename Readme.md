@@ -52,7 +52,9 @@ I am using this repo to track my progress and practice concepts step by step.
 - 'for' loop is useful when iterations are known
 - 'while' loop works best for condition-based repetition
 
-**Topics Studied:**Git-Github
+### Git-Github:
+
+**Topics Studied:**
 
 - GitHub README ka use
 - Code me comments ka importance
