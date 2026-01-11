@@ -35,7 +35,9 @@ I am using this repo to track my progress and practice concepts step by step.
 - Understood parameters and return values
 - Practiced writing simple functions
 
-### ## 📘 Daily Learning Log
+
+---
+
 
 ### 🔁 Python loops: 
 
@@ -54,6 +56,8 @@ I am using this repo to track my progress and practice concepts step by step.
 - 'for' loop is useful when iterations are known
 - 'while' loop works best for condition-based repetition
 
+---
+
 ### 🐙 Git-Github:
 
 **Topics Studied:**
@@ -65,6 +69,9 @@ I am using this repo to track my progress and practice concepts step by step.
 **Practice:**
 - Ek small Python file me comments add kiye
 - GitHub par push kiya
+
+
+---
 
 
 ## 🛠 Tools Used
