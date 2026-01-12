@@ -13,6 +13,8 @@
 - Variable is used to store data
 - It acts like a container
 
+---
+
 ## 3. Python loops:
  
 ### Defination: 
