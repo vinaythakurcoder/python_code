@@ -66,3 +66,80 @@ def print_prime_numbers(numbers):
                 print(num)
 
 print_prime_numbers([10, 2, 3, 4, 5, 6, 7, 11, 15, 17])
+
+# write a function to print the value of given factorial. 
+def factorial(n):
+    x = 1 
+    for i in range(1, n + 1):
+        x = x * i
+    return x
+print(factorial(5))
+
+# write a funtion to print the length of string.
+
+def len_string(n):
+    c = 0
+    for i in (n):
+        if i!=" ":
+            c+=1
+    return c
+
+print(len_string("thakursab nagar jhuna"))
+
+list1 = ["Mumbai", "Chennai", "Bangalore", "Hyderabad", "Delhi"]
+list2 = ["Suraj", "Rahul", "Sovit", "vinay", "kumar", "Ankit"]
+
+def len_list(list):
+    print(list)
+
+len_list(list1)
+len_list(list2)
+
+def factorial(n):
+    result = 1
+    while n > 1:
+        result = result * n
+        n = n - 1
+    return result
+
+print(factorial(5))
+
+def largest_number(numbers):
+    largest = numbers[0]
+    for number in numbers:
+        if number > largest:
+            largest = number
+    return largest
+print(largest_number([10, 25, 5, 78, 99, 34]))
+
+# write a function to print squar and cube the given number.
+
+def number(n):
+    if n % 2 == 0:
+        print("Even")
+    else:
+        print("Odd")
+number(10000)
+
+# write a function to print same work process as a calculator use operators.
+
+def calculator(a , b , op):
+    if op == "+":
+        return a + b
+    elif op == "-":
+        return a - b
+    elif op == "*":
+        return a * b
+    elif op == "/":
+        if b!=0:
+            return a / b
+        else:
+            return "ERROR"
+    else:
+        return [::-1,"op Error"]
+print(calculator(10 , 1 ,"="))
+
+
+def flux(g):
+    return g[::-1]
+print(flux("Thakursab"))
