@@ -14,3 +14,8 @@ print("ThakurSabji......")
 
 with open("functions.py", "r")as f:
     print(f.read())
+
+import os
+print(os.getcwd())
+
+
