@@ -4,6 +4,7 @@ Data structures are used to store, organize, and manage data efficiently.
 Python provides built-in data structures that are easy to use and powerful.
 
 ---
+```python
 
 ## 1. List
 
