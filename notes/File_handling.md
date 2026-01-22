@@ -21,7 +21,5 @@ File handling allows a program to read, write, and manage data stored in files.
 
 ### 📖 Examples
 
-#### 1️⃣ Read File
-```python
-with open("data.txt", "r") as f:
-    print(f.read())
+|with open("data.txt", "r") as f:
+    print(f.read())|
