@@ -13,7 +13,7 @@ Python provides built-in data structures that are easy to use and powerful.
 - Defined using square brackets `[]`
 
 ### 1.2 Example
-```python
+
 numbers = [1, 2, 3, 4]
 names = ["Vinay", "Jhoshi", "Suresh"]
 
