@@ -29,26 +29,35 @@ student = {
     "course": "Python"
 }
 
-- keys() – returns all keys
+
+### 1. keys() – returns all keys
+
 print(student.keys())
 
-- values() – returns all values
+### 2. values() – returns all values
+
 print(student.values())
 
-- items() – returns key-value pairs
+### 3. items() – returns key-value pairs
+
 print(student.items())
 
-- get() – safely access value
+### 4. get() – safely access value
+
 print(student.get("name"))
 
-- update() – update or add values
+### 5. update() – update or add values
+
 student.update({"age": 21, "city": "Delhi"})
 
-- pop() – remove item by key
+### 6. pop() – remove item by key
+
 student.pop("course")
 
-- popitem() – remove last inserted item
+### 7. popitem() – remove last inserted item
+
 student.popitem()
 
-- clear() – remove all items
+**8. clear() – remove all items**
+
 student.clear()
