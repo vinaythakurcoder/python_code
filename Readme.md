@@ -31,10 +31,22 @@ I am using this repo to track my progress and practice concepts step by step.
 
 **Variable Defination and example**
 
-A variable is a container that stores data values in a program.
-age = 20
-name = "Vinay"
+- A variable is a container that stores data values in a program.
+- age = 20
+- name = "Vinay"
 
+---
+
+### String 
+
+**A**sequence of characters (letters, numbers, symbols, or spaces) enclosed in quotes, used to store text**
+
+**Example**
+
+name = "Vinay"
+greeting = 'Hello, World!'
+
+---
 
 ### 🧩 Pythons Function
 
@@ -80,6 +92,7 @@ name = "Vinay"
 - GitHub par push kiya
 
 ---
+## 📊 Data structure.
 
 ### 📘 Dictionary Methods (Short)
 
@@ -91,6 +104,36 @@ name = "Vinay"
 - `get()` – safely get value  
 - `update()` – update dictionary  
 - `pop()` – remove item
+
+---
+
+## file handling I/O
+
+## 📂 File Handling
+
+File handling allows a program to 📖 **read**, ✏️ **write**, and 🔄 **manage files** in Python.  
+📌 It is used to work with external data stored in files.
+
+---
+
+### 🔧 File Modes
+
+
+ `r`    Read file (default) 
+ `w`    Write file (creates or overwrites)
+ `a`    Append to file 
+ `x`    Create new file (fails if exists)
+ `b`    Binary mode
+ `t`    Text mode (default)
+ `+`    Read and write
+
+---
+
+### 📖 Examples
+
+with open("data.txt", "r") as f:
+    print(f.read())
+
 
 
 ---

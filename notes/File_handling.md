@@ -1,39 +1,27 @@
-## Dictionary Important Methods – Python
+## 📂 File Handling
 
-student = {
-    "name": "Vinay",
-    "age": 20,
-    "course": "Python"
-}
+File handling allows a program to read, write, and manage data stored in files.  
+📌 It is one of the most important concepts in Python for working with external data.
 
-### 1. keys() – returns all keys
+---
 
-print(student.keys())
+### 🔧 File Modes
 
-### 2. values() – returns all values
+| Mode | Description |
+|------|------------|
+| `r`  | Read file (default) |
+| `w`  | Write file (creates or overwrites) |
+| `a`  | Append to file |
+| `x`  | Create new file (fails if file exists) |
+| `b`  | Binary mode |
+| `t`  | Text mode (default) |
+| `+`  | Read and write |
 
-print(student.values())
+---
 
-### 3. items() – returns key-value pairs
+### 📖 Examples
 
-print(student.items())
-
-### 4. get() – safely access value
-
-print(student.get("name"))
-
-### 5. update() – update or add values
-
-student.update({"age": 21, "city": "Delhi"})
-
-### 6. pop() – remove item by key
-
-student.pop("course")
-
-### 7. popitem() – remove last inserted item
-
-student.popitem()
-
-### 8. clear() – remove all items
-
-student.clear()
+#### 1️⃣ Read File
+```python
+with open("data.txt", "r") as f:
+    print(f.read())

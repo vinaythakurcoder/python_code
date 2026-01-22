@@ -4,7 +4,6 @@ Data structures are used to store, organize, and manage data efficiently.
 Python provides built-in data structures that are easy to use and powerful.
 
 ---
-```python
 
 ## 1. List
 
@@ -30,35 +29,34 @@ student = {
     "course": "Python"
 }
 
-
-**1. keys() – returns all keys**
+**1. keys() – returns all keys:**
 
 print(student.keys())
 
-**2. values() – returns all values**
+**2. values() – returns all values:**
 
 print(student.values())
 
-**3. items() – returns key-value pairs**
+**3. items() – returns key-value pairs:**
 
 print(student.items())
 
-**4. get() – safely access value**
+**4. get() – safely access value:**
 
 print(student.get("name"))
 
-**5. update() – update or add values**
+**5. update() – update or add values:**
 
 student.update({"age": 21, "city": "Delhi"})
 
-**6. pop() – remove item by key**
+**6. pop() – remove item by key:**
 
 student.pop("course")
 
-**7. popitem() – remove last inserted item**
+**7. popitem() – remove last inserted item:**
 
 student.popitem()
 
-**8. clear() – remove all items**
+**8. clear() – remove all items:**
 
 student.clear()
