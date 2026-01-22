@@ -1,21 +1,22 @@
+# Reading a file
+with open('example.txt', 'r') as file:
+    content = file.read()
+    print(content)
 
-f = open("functions.py", "r")
-line1= f.readline()
-line2= f.readline()
-line3= f.readline()
-line4= f.readline()
-print(line1)
-print(line2)
-print(line3)
-print(line4)
+# Writing to a file
+with open('example.txt', 'w') as file:
+    file.write('Hello, World!')
 
-print("ThakurSabji......")
+# Appending to a file
+with open('example.txt', 'a') as file:
+    file.write('\nNew line')
 
+# Reading line by line
+with open('example.txt', 'r') as file:
+    for line in file:
+        print(line.strip())
 
-with open("functions.py", "r")as f:
-    print(f.read())
-
-import os
-print(os.getcwd())
-
-
+# Reading all lines into a list
+with open('example.txt', 'r') as file:
+    lines = file.readlines()
+    print(lines)

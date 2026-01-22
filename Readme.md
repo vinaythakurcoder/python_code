@@ -27,6 +27,15 @@ I am using this repo to track my progress and practice concepts step by step.
 
 ## 📘 Daily Learning Log
 
+### 🔤 variables (python)
+
+**Variable Defination and example**
+
+A variable is a container that stores data values in a program.
+age = 20
+name = "Vinay"
+
+
 ### 🧩 Pythons Function
 
 **Topic:** 
@@ -69,6 +78,19 @@ I am using this repo to track my progress and practice concepts step by step.
 **Practice:**
 - Ek small Python file me comments add kiye
 - GitHub par push kiya
+
+---
+
+### 📘 Dictionary Methods (Short)
+
+**Common Dictionary Methods**
+
+- `keys()` – returns all keys  
+- `values()` – returns all values  
+- `items()` – returns key-value pairs  
+- `get()` – safely get value  
+- `update()` – update dictionary  
+- `pop()` – remove item
 
 
 ---
