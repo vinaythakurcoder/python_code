@@ -28,4 +28,3 @@ vinay = 1
 while sir>=vinay:
    print(sir**2)
    sir-=1
-   
