@@ -134,6 +134,7 @@ File handling allows a program to  **read**,  **write**, and  **manage files** i
 ### 📖 Examples
 
 with open("data.txt", "r") as f:
+
     print(f.read())
 
 
