@@ -107,27 +107,29 @@ greeting = 'Hello, World!'
 
 ---
 
-## file handling I/O
+## 📂 File Handling I/O
 
-## 📂 File Handling
-
-File handling allows a program to 📖 **read**, ✏️ **write**, and 🔄 **manage files** in Python.  
-📌 It is used to work with external data stored in files.
+File handling allows a program to  **read**,  **write**, and  **manage files** in Python.  
+ It is used to work with external data stored in files.
 
 ---
 
 ### 🔧 File Modes
 
 
- `r`    Read file (default) 
- `w`    Write file (creates or overwrites)
- `a`    Append to file 
- `x`    Create new file (fails if exists)
- `b`    Binary mode
- `t`    Text mode (default)
- `+`    Read and write
+ `r`    Read file (default)
 
----
+ `w`    Write file (creates or overwrites)
+ 
+ `a`    Append to file 
+ 
+ `x`    Create new file (fails if exists)
+ 
+ `b`    Binary mode
+ 
+ `t`    Text mode (default)
+ 
+ `+`    Read and write
 
 ### 📖 Examples
 
